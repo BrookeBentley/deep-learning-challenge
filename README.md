@@ -2,7 +2,7 @@
 
 #Overview of the analysis 
 
-The purpose of this analysis is to predict whether applicants for funding from Alphabet Soup, a nonprofit foundation, will be successful.
+The purpose of this analysis is to predict whether applicants for funding from Alphabet Soup, a nonprofit foundation, will be successful. Google colab is used to analyze this machine learning model.
 
 #Results 
 
